@@ -1,0 +1,5 @@
+=> false
+=> false
+=> false
+=> true
+=> true #if one of confitions under or operator is true, than true
