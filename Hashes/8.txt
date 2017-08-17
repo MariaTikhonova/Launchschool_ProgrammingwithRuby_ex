@@ -1,0 +1,2 @@
+.keys is a method for hashes, not arrays. And this is a method error, so
+B.

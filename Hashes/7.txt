@@ -1,0 +1,1 @@
+First is a symbol hash key in new hash syntax and second is a variable as a hash key
