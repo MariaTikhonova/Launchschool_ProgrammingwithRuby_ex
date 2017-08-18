@@ -1,0 +1,3 @@
+Exception handling is a process of dealing with errors.
+First, a class Exception object involved, with subclasses- different Errors (like RuntimeError, IndexError, etc)
+Second, its a syntax construction with begin.. rescue..(doing something when error)..end.

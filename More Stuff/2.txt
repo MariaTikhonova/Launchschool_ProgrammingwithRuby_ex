@@ -1,0 +1,2 @@
+Nothing because we didn't .call a block
+Returns an object of Proc class

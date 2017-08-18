@@ -1,0 +1,1 @@
+Because we should take a block as an argument of method with &
