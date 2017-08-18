@@ -1,1 +1,0 @@
-Unlike Array, hash is associated list, and its order is unchangeable
